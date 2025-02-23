@@ -1,3 +1,7 @@
 # library-management-system
-> pip install tkinter
-> pip install sqlite3
+```
+pip install tkinter
+```
+```
+pip install sqlite3
+```
